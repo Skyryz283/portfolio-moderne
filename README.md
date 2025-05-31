@@ -1,3 +1,4 @@
+
 # 🌌 Portfolio Futuriste – HTML & CSS
 
 Bienvenue dans mon **portfolio personnel** au style **futuriste et épuré**, développé en **HTML et CSS uniquement**, sans framework ni dépendances externes.
@@ -16,3 +17,4 @@ Ce projet présente une interface simple et élégante permettant de mettre en v
 ## 📁 Structure du code
 
 - `index.html` : contient tout le code (HTML + CSS inline dans `<style>`)
+![PORTFOLIO](https://github.com/user-attachments/assets/38be6817-1763-4551-8e01-91273968ecc4)
